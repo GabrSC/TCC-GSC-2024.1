@@ -1,5 +1,5 @@
 # TCC-GSC-2024.1
-# Exemplo de código utilizado no meu TCC.
+# Exemplo de código utilizado no artigo de TCC.
 
 # Importar bibliotecas necessárias
 import time
