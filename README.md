@@ -1,5 +1,4 @@
-# Código de exemplo, simulando o funcionamento do robô cirurgião Da Vinci XI em uma cirurgia
-#Dados retirados com base no manual do fabricante.
+# Código de exemplo, simulando o funcionamento do robô cirurgião Da Vinci XI em uma cirurgia, com dados retirados do manual do fabricante.
 
 # Importa as bibliotecas necessárias para o funcionamento do código
 import time
